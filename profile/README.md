@@ -9,7 +9,7 @@
 ## Units
 The first 8 units are going to be in CodeHS. These units will be condensed since the prerequisite for this course is Computer Programming 1 and the four units should be review
 * Unit 0 - GitHub accounts, CodeSpaces (backup plan only), VSCode (until we get new laptops, hopefully soon)
-* Unit 1 - Functions and Exceptions (will contain other Python topics as review)
+* [Unit 1 - Functions and Exceptions (will contain other Python topics as review)](https://github.com/WLHS-Computer-Programming2/Unit-1)
 * Unit 2- Strings
 * Unit 3 - Project: The Game of Pig
 * Unit 4 - Creating and Altering Data Structures
