@@ -4,7 +4,6 @@
 * Syllabus
 * [Daily Plans](https://docs.google.com/spreadsheets/d/1Y1UQTJZH6PTitxP1kfARfSpLOV16APPy0lNZLGNBujk/edit?usp=sharing)
 * [Python Code Visualizer](https://cscircles.cemc.uwaterloo.ca/visualize)
-* 
 
 ## Units
 The first 8 units are going to be in CodeHS. These units will be condensed since the prerequisite for this course is Computer Programming 1 and the four units should be review
