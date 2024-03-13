@@ -13,7 +13,7 @@ The first 8 units are going to be in CodeHS. These units will be condensed since
 * [Unit 2- Strings](https://github.com/WLHS-Computer-Programming2/Unit-2/tree/main)
 * [Unit 3 - Project: The Game of Pig](https://github.com/WLHS-Computer-Programming2/Unit-3)
 * Unit 4 - Creating and Altering Data Structures
-* Unit 5 - Extending Data Structures (not review anymore)
+* [Unit 5 - Extending Data Structures (not review anymore)](https://github.com/WLHS-Computer-Programming2/Unit-5/tree/main)
 * Unit 6 - Project: Guess the Word
 * Unit 7 - File I/O
 * Unit 8 - Classes and Objects
