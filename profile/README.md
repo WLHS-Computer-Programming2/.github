@@ -15,6 +15,6 @@ The first 8 units are going to be in CodeHS. These units will be condensed since
 * [Unit 5 - Extending Data Structures (not review anymore)](https://github.com/WLHS-Computer-Programming2/Unit-5/tree/main)
 * Unit 6 - Project: Guess the Word (skipped)
 * [Unit 7 - File I/O](https://github.com/WLHS-Computer-Programming2/Unit-7)
-* Unit 8 - Classes and Objects
+* [Unit 8 - Classes and Objects](https://github.com/WLHS-Computer-Programming2/Unit-8/blob/main/README.md)
 
 Other units TBD depending on projects students are working on
